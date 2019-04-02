@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dailyfood/precache-manifest.606ccc2c2207e006c68baf4c19fd4b83.js"
+  "/dailyfood/precache-manifest.7b465cbb3cacf7ff287d196cb29096a4.js"
 );
 
 workbox.clientsClaim();
